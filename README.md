@@ -2,7 +2,11 @@
 
 > 以风趣幽默、小白友好的方式，拆解 Claude Code 源码架构。赛博朋克风格的互动科普网页——不枯燥，但能把技术讲透。
 
-## 在线预览
+## 在线体验
+
+https://easy-claude-code-tutorial.vercel.app/
+
+## 本地运行
 
 ```bash
 git clone https://github.com/Lzhtommy/easy-claude-code.git
